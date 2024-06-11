@@ -1,0 +1,16 @@
+header {
+    background-image: linear-gradient(rgba(207, 81, 200, 0.342), rgba(110, 28, 99, 0.475)), url("Fondo-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.letra-color {
+    background: linear-gradient(to right,rgb(255, 1, 162), rgb(77, 227, 246),rgb(156, 3, 161));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.icono-gigante {
+    font-size: 5rem;
+    padding: 5px 10px;
+}
