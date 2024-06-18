@@ -1,11 +1,10 @@
 header {
-    background-image: linear-gradient(rgba(207, 81, 200, 0.342), rgba(110, 28, 99, 0.475)), url("Fondo-removebg-preview.png");
-    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(121, 162, 243, 0.704), rgba(3, 23, 81, 0.866)), url("assets/_.jpeg");
     background-position: center;
 }
 
 .letra-color {
-    background: linear-gradient(to right,rgb(255, 1, 162), rgb(77, 227, 246),rgb(156, 3, 161));
+    background: linear-gradient(to right,rgb(246, 193, 48), rgb(255, 233, 93), rgb(255, 230, 104));
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
@@ -13,4 +12,19 @@ header {
 .icono-gigante {
     font-size: 5rem;
     padding: 5px 10px;
+}
+
+.img-proyecto{
+    width: 100%;
+}
+
+.icono-contacto{
+    font-size: 3rem;
+    color: black;
+    margin: 4px 8px;
+
+}
+
+#contacto{
+    height: 80vh;
 }
