@@ -29,3 +29,8 @@ header {
 #contacto{
     min-height: 80vh;
 }
+
+p{
+    text-align: justify;
+}
+
