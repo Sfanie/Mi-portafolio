@@ -4,7 +4,7 @@
 Visítala: 
 [Mi portafolio](https://stefanie-vera.netlify.app/)
 
-![Texto alternativo](assets/Captura1.png)
+![Texto alternativo](assets/Captura.png)
 
 ### Gracias por visitar mi proyecto. 
 #### Nos vemos pronto. 
