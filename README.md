@@ -6,5 +6,7 @@ Visítala:
 
 ![Texto alternativo](assets/Captura.png)
 
+Este proyecto presenta la suma de los conocimientos aprendidos durante el curso de Tecnolochicas PRO. Haciendo uso de diversas herramientas como HTML, CSS, JS, Bootstrap y TypeWriter.
+
 ### Gracias por visitar mi proyecto. 
 #### Nos vemos pronto. 
